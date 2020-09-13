@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-
 # In[1]:
-
+#black jack
 
 def play_again():
     x=input('do you want to play another hand(yes or no)')
@@ -343,7 +342,7 @@ def start():
         elif total==21:
             break
         else:
-            print('PLAYER BUSTED')
+9            print('PLAYER BUSTED')
             print('-'*20)
             pl.chiploss()
             if pl.chipb>1:
