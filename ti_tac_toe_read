@@ -1,0 +1,12 @@
+#tic tac toe game
+
+#in this project 
+#Here is how we approach in development of this project:
+
+#1. 2 players should be able to play the game.
+#2. The board should be printed out every time any of the player makes a move
+#3. You should be able to accept input of the player position and then place a symbol on the board
+
+
+#we generate board for game and set rules for detection for which player wins in this 3x3 board horizontal ,vertical &diagonal matches  
+#setup for how to remove positions after taken selected symbols and game logic 
