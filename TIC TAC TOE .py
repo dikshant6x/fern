@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+#tic tac toe game
 
 x_o=input('what will u prefer = X or O')
 if x_o.lower()=='x':
