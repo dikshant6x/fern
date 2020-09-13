@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 # In[1]:
-#black jack
+#black jack game
 
 def play_again():
     x=input('do you want to play another hand(yes or no)')
